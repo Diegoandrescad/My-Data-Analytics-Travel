@@ -1,7 +1,8 @@
-# Engagement Analysis for Google Merchandise Store
+# Engagement Analysis for Google Merchandise Store E-Commerce
 
 ## Overview
-This report analyzes user engagement metrics for the Google Merchandise Store, based on a custom dashboard created in Looker Studio, accessible [here](https://lookerstudio.google.com/reporting/5ddc06c6-2d30-4b3b-9ca9-5b6df7befd18). The dashboard provides insights into sessions by device and traffic source over a selected period, from March 24 to April 20, 2025. The data is visualized to track trends and patterns in user behavior, helping to inform strategies for optimizing the e-commerce platform.
+This report analyzes user engagement metrics for the Google Merchandise Store E-Commerce
+, based on a custom dashboard created in Looker Studio, accessible [here](https://lookerstudio.google.com/reporting/5ddc06c6-2d30-4b3b-9ca9-5b6df7befd18). The dashboard provides insights into sessions by device and traffic source over a selected period, from March 24 to April 20, 2025. The data is visualized to track trends and patterns in user behavior, helping to inform strategies for optimizing the e-commerce platform.
 
 ## Key Metrics Analyzed
 The dashboard focuses on the following key metrics:
